@@ -1,1 +1,1 @@
-# Equal-Stacks
+# Equal-Stacks This code finds the maximum possible equal height of three stacks by repeatedly removing cylinders from the tallest stack until all stack sums match. The `equalStacks` function converts the input lists to stacks, keeps track of their sums, and pops from the stack with the largest sum until equality is achieved or a stack becomes empty.
